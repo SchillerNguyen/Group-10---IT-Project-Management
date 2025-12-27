@@ -1,5 +1,4 @@
 # Customer Realtionship Management System
-Course: Information System Management
 
 ![ITPM Presentation.png](https://github.com/SchillerNguyen/Group-10---IT-Project-Management/blob/main/ITPM.png)
 
